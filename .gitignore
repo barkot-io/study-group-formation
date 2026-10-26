@@ -1,0 +1,23 @@
+# Compiled Java class files and build directory
+bin/
+*.class
+
+# SQLite Database runtime files
+*.db
+*.db-journal
+
+# Generated summary report files
+study_group_report.txt
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.iml
+*.nbattrs
+*.settings/
+.project
+.classpath
